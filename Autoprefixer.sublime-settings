@@ -1,0 +1,6 @@
+{
+	"browsers": ["> 1%", "IE 10"],
+	"cascade": true,
+	"remove": true,
+	"prefixOnSave": false
+}

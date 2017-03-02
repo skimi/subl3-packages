@@ -1,0 +1,10 @@
+{
+	"extensions":
+	[
+		"inc",
+		"profile",
+		"ctp",
+		"module",
+		"install"
+	]
+}
