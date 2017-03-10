@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"ApacheConf.tmLanguage",
+		"AutoFileName",
 		"Autoprefixer",
 		"Babel",
 		"CodeFormatter",
@@ -13,6 +14,7 @@
 		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
 		"Emmet",
+		"ESLint",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"HTMLEntity Snippets",
