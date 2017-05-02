@@ -1,20 +1,17 @@
 {
-	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"folder_exclude_patterns":
-	[
-		"webroot/vendor",
-		".git",
-		".idea",
-		"node_modules",
-		"vendor"
-	],
-	"font_size": 10,
-	"highlight_line": true,
-	"ignored_packages":
-	[
-		"Makefile",
-		"Vintage"
-	],
-	"trim_trailing_white_space_on_save": true
+    "trim_trailing_white_space_on_save": true, 
+    "folder_exclude_patterns": [
+        "webroot/vendor", 
+        ".git", 
+        ".idea", 
+        "vendor", 
+        "node_modules"
+    ], 
+    "ignored_packages": [
+        "Makefile"
+    ], 
+    "highlight_line": true, 
+    "font_size": 10, 
+    "caret_style": "phase", 
+    "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme"
 }
